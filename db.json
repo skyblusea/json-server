@@ -1,6 +1,50 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "stackoverflow": [
+    {
+  "questionId": 0,
+  "title": "제목1",
+  "body": "내용",
+  "answerCount": 0,
+  "tagList":["javascript", "react", "nodejs"],
+  "viewCount": 0,
+  "user" :{
+    "profileImage": "https://avatars.githubusercontent.com/u/18197734?v=4",
+    "userId": "userId",
+    "displayName": "displayName"
+  },
+  "createdDate": "2021-08-01T14:00:00",
+  "modifiedDate": "2021-08-01T14:00:00"
+},
+{
+  "questionId": 1,
+  "title": "제목2",
+  "body": "내용",
+  "answerCount": 0,
+  "tagList":["javascript", "react", "nodejs"],
+  "viewCount": 0,
+  "user" :{
+    "profileImage": "https://avatars.githubusercontent.com/u/18197734?v=4",
+    "userId": "userId",
+    "displayName": "displayName"
+  },
+  "createdDate": "2021-08-01T14:00:00",
+  "modifiedDate": "2021-08-01T14:00:00"
+},
+{
+  "questionId": 2,
+  "title": "제목3",
+  "body": "내용",
+  "answerCount": 0,
+  "tagList":["javascript", "react", "nodejs"],
+  "viewCount": 0,
+  "user" :{
+    "profileImage": "https://avatars.githubusercontent.com/u/18197734?v=4",
+    "userId": "userId",
+    "displayName": "displayName"
+  },
+  "createdDate": "2021-08-01T14:00:00",
+  "modifiedDate": "2021-08-01T14:00:00"
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
